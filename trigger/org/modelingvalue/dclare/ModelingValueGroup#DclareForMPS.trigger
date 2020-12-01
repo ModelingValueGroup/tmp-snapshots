@@ -1,2 +1,3 @@
 TRIGGER_REPOSITORY='ModelingValueGroup/DclareForMPS'
 TRIGGER_BRANCH='deltas-mps'
+TRIGGER_YAMLS=( )
