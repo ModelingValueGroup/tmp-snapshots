@@ -1,0 +1,3 @@
+TRIGGER_REPOSITORY='ModelingValueGroup/mvgJson'
+TRIGGER_BRANCH='develop'
+TRIGGER_YAMLS=( )
