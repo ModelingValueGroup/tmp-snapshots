@@ -1,0 +1,3 @@
+TRIGGER_REPOSITORY='ModelingValueGroup/mvgJson'
+TRIGGER_BRANCH='gradle'
+TRIGGER_YAMLS=( )
