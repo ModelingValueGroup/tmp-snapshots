@@ -1,0 +1,3 @@
+TRIGGER_REPOSITORY='ModelingValueGroup/DclareForMPS'
+TRIGGER_BRANCH='tom'
+TRIGGER_YAMLS=( )
