@@ -1,3 +1,3 @@
 TRIGGER_REPOSITORY='ModelingValueGroup/DclareForMPS'
 TRIGGER_BRANCH='develop'
-TRIGGER_YAMLS=( )
+TRIGGER_YAMLS=( 'build.yaml' )
